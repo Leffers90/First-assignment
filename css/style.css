@@ -1,0 +1,13 @@
+#burning {
+  width: 100%; 
+  height: 100%;
+}
+
+.img-thumbnail {
+  height: auto;
+  width: 87%;
+}
+
+.blockquote-footer {
+  margin-top: 25px;
+}
